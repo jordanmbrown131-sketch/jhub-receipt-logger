@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple launcher icon: a white receipt with a pound sign on a navy circle. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M24,0a24,24 0,1 1,0 48a24,24 0,1 1,0 -48z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,10h18v28l-3,-2l-3,2l-3,-2l-3,2l-3,-2l-3,2z" />
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M19,16h10v2h-10zM19,21h10v2h-10z" />
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M21,32h8v-2h-5v-2h3v-2h-3v-1c0,-1.1 0.9,-2 2,-2s2,0.9 2,2h2c0,-2.2 -1.8,-4 -4,-4s-4,1.8 -4,4v1h-1v2h1v2h-1z" />
+</vector>
