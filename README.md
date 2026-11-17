@@ -4,8 +4,6 @@ A simple Android app for logging expense receipts. Take a photo of a receipt, en
 
 Built for jHub Coding Scheme Module.
 
-> **Unclassified.** The app holds no classified or sensitive information. All data (photos and amounts) stays on the device in the app's private storage. Nothing is uploaded, synced or shared, and the app requests no network or camera permissions. Screenshots in this repository use dummy receipts only.
-
 ## Features
 
 | Requirement | How the app meets it |
