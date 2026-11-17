@@ -2,7 +2,7 @@
 
 A simple Android app for logging expense receipts. Take a photo of a receipt, enter how much to claim, and see a running total of everything you're owed.
 
-Built for jHub Coding Scheme Module 2 in **Kotlin** with **Jetpack Compose** (Android's native, declarative UI framework).
+Built for jHub Coding Scheme Module.
 
 > **Unclassified.** The app holds no classified or sensitive information. All data (photos and amounts) stays on the device in the app's private storage. Nothing is uploaded, synced or shared, and the app requests no network or camera permissions. Screenshots in this repository use dummy receipts only.
 
